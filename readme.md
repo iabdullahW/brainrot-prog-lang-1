@@ -57,8 +57,8 @@ Get Your Build On:
 
 	1.	Clone this skibidi sigma-level repo:
 
-git clone https://github.com/prasoonpratham/brainrot-lang.git
-cd brainrot-lang
+git clone https://github.com/iabdullahW/brainrot-prog-lang-1.git
+cd brainrot-prog-lang-1
 
 	2.	Create that build den:
 
