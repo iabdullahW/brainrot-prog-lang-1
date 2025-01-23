@@ -17,19 +17,52 @@ Features
 
 Syntax Highlights
 
-Mew-Level Keywords
+# Brain Rott Programming Language
 
-	•	yap – Print that bad boy to the console.
-	•	fr, no_cap, cap – If/else logic that’s sigma-certified.
-	•	bet – For when you gotta loop like Baby Gronk training to rizz up Livee Dunn.
-	•	goon – Infinite loop for the real giga-chads.
-	•	bruh – Function declaration because saying “function” is beta.
-	•	pookie – Variable declaration (cute but deadly).
-	•	sigma – Class declaration for that Level 100 boss rizz.
-	•	squad – Array, because teams mog solos.
-	•	yeet, yoink – Squad ops for all your Grimace shake-coded needs.
-	•	cook – Main function to chef up your code.
-	•	ghost – Exit the program when you’re done mogging.
+## Syntax Highlights
+
+### Mew-Level Keywords
+- **yap**: Print that bad boy to the console.
+- **fr, no_cap, cap**: If/else logic that’s sigma-certified.
+- **bet**: For when you gotta loop like Baby Gronk training to rizz up Livee Dunn.
+- **goon**: Infinite loop for the real giga-chads.
+- **bruh**: Function declaration because saying “function” is beta.
+- **pookie**: Variable declaration (cute but deadly).
+- **sigma**: Class declaration for that Level 100 boss rizz.
+- **squad**: Array, because teams mog solos.
+- **yeet, yoink**: Squad ops for all your Grimace shake-coded needs.
+- **cook**: Main function to chef up your code.
+- **ghost**: Exit the program when you’re done mogging.
+
+### Control Flow Keywords
+- **edgy**: If statement to check conditions.
+- **amogus**: Else statement for alternative paths.
+- **goon (condition)**: While loop for repeated execution.
+- **mewing (block)**: Do-while loop structure.
+
+### Special Functionality
+- **goated bruh**: High-priority function declaration.
+
+### Snippet of Pure Skibidi Energy
+
+### Built-in Functions
+- **yapping**: Print text with a newline.
+- **yappin**: Print text without a newline.
+- **baka**: Print to standard error for error handling.
+- **ragequit**: Terminate program execution immediately with an exit code.
+
+### Operators
+The language supports basic arithmetic and logical operators:
+- `+`: Addition
+- `-`: Subtraction
+- `*`: Multiplication
+- `/`: Division
+- `=`: Assignment
+- `<`: Less than
+- `>`: Greater than
+- `&&`: Logical AND
+- `||`: Logical OR
+
 
 Snippet of Pure Skibidi Energy:
 
